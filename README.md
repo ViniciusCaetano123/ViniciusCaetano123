@@ -14,9 +14,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 </div>
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,vuejs,react,nodejs,flutter,tailwind,mysql,sqlite,php,pinia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,vuejs,react,nodejs,flutter,tailwind,mysql,sqlite,php,pinia,prisma)](https://skillicons.dev)
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vite,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vite,docker,postman)](https://skillicons.dev)
 ## Git Status
 
 
