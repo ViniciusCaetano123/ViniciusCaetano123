@@ -5,6 +5,11 @@
 - 🌱 I’m currently learning React and Laravel
 - 📫 How to reach me: vinicaetano.f@gmail.com
 
-  ## Languages
+## Languages
+
+# Tools
+
+## Git Status
+
 
 
