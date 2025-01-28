@@ -8,7 +8,11 @@
 - 🔭 I’m currently working on Vuejs and Nodejs
 - 🌱 I’m currently learning React and Laravel
 - 📫 How to reach me: vinicaetano.f@gmail.com
+<div align="center">
 
+Meu nome é vinicius, sou deseolvedor de full stack da empresa lefisc, aualemnte mexendo vuejs e nodejs
+
+</div>
 ## Languages
 
 ## Tools
