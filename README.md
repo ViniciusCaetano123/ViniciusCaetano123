@@ -7,7 +7,7 @@
 
 ## Languages
 
-# Tools
+## Tools
 
 ## Git Status
 
