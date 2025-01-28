@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=apple-system&pause=1000&color=F7F7F7&width=435&lines=Hey%2C++Vinicius+here!+)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=F7F7F7&multiline=true&width=215&height=35&lines=Hey%2C+Vinicius+here!)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on Vuejs and Nodejs
