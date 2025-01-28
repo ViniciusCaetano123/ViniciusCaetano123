@@ -1,6 +1,11 @@
-<div align="center" style="display: flex;align-items: center;justify-content: center;">
+<div >
+<table align="center">
+  <tr>
+    <td>👋</td>
+    <td><h1>Hey, Vinicius</h1></td>
+  </tr>
+</table>
 
-## 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=F7F7F7&multiline=true&width=215&height=30&lines=Hey%2C+Vinicius+here!)](https://git.io/typing-svg)
 
 </div>
 
