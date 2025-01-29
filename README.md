@@ -26,7 +26,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   <br>
 
 <div align="center">
-  🌐 &nbsp;&nbsp;Explore my blog!
+  🌐 &nbsp;&nbsp;Explore my site!
 </div>
 
 
