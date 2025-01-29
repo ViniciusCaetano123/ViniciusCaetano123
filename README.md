@@ -19,7 +19,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 [![My Skills](https://skillicons.dev/icons?i=git,github,vite,docker,postman)](https://skillicons.dev)
 ## Git Status
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ViniciusCaetano123&show_icons=true&theme=highcontrast">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ViniciusCaetano123&show_icons=true&theme=highcontrast&hide=issues,contribs">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCaetano123&layout=compact&theme=highcontrast">
   
   <br>
