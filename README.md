@@ -18,6 +18,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,vite,docker,postman)](https://skillicons.dev)
 ## Git Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 
 
