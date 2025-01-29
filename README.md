@@ -4,7 +4,7 @@
 
 </div>
 
-- 👨‍💻 I'm full-stack developor
+- 👨‍💻 I'm full-stack developer
 - 🔭 I’m currently working on Vuejs and Nodejs
 - 🌱 I’m currently learning React and Laravel
 - 📫 How to reach me: vinicaetano.f@gmail.com
