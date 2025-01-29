@@ -10,7 +10,9 @@
 - 📫 How to reach me: vinicaetano.f@gmail.com
 
 <div align="center">
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with deskto
+Sou formado em Tecnologia da Informação pela QI e possuo formação em Ciência da Programação pela UniRitter. Atualmente, estou expandindo minhas áreas de atuação, aprendendo novas linguagens e frameworks, como React e PHP. Tenho interesse em continuar meus estudos e pretendo fazer uma pós-graduação em Cloud & Edge Computing ou Inteligência Artificial.
+
+No meu GitHub, você encontrará alguns projetos interessantes — fique à vontade para clonar, testar e explorar. Além disso, também pode acessar meu site para conhecer mais sobre meu trabalho e minhas experiências.
 </div>
 
 ## Languages
