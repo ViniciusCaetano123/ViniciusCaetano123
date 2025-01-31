@@ -10,7 +10,7 @@
 - 📫 How to reach me: vinicaetano.f@gmail.com
 
 <div align="justify" style="">
-Sou formado em Tecnologia da Informação pela QI e possuo formação em Ciência da Programação pela UniRitter. Atualmente, estou expandindo minhas áreas de atuação, aprendendo novas linguagens e frameworks, como React e PHP. Tenho interesse em continuar meus estudos e pretendo fazer uma pós-graduação em Cloud & Edge Computing ou Inteligência Artificial.
+Sou formado em Tecnologia da Informação pela QI e possuo formação em Ciência da Programação pela UniRitter. Atualmente, estou expandindo minhas áreas de atuação, aprendendo novas linguagens e frameworks, como React e Angular Tenho interesse em continuar meus estudos e pretendo fazer uma pós-graduação em Cloud & Edge Computing ou Inteligência Artificial.
 
 No meu GitHub, você encontrará alguns projetos interessantes — fique à vontade para clonar, testar e explorar. Além disso, também pode acessar meu site para conhecer mais sobre meu trabalho e minhas experiências.
 </div>
